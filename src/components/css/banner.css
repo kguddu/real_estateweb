@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+    max-height: 640px;
+    margin-bottom: 8;
+    align-items: center;
+   
+
+
+
+}
+
+.banner-img img{
+    height: 600px;
+    width: 600px;
+    margin-right: 2rem;
+    margin-top: 20px;
+}
+h2 span{
+    color:rgb(3, 240, 59) ;
+    font-size: 30px;
+    font-weight: 800;
+}
+h2{
+    color: blueviolet;
+}
+.rent-div{
+    margin-left: 3rem;
+
+}

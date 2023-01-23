@@ -1,0 +1,17 @@
+/* .items-center mx-auto animate-spin  mt-[200px] */
+
+.loading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    animation: infinite;
+    margin-left: 50%;
+}
+
+.no_found{
+    margin-left: 40%;
+    margin-top: 200px;
+    font-size: 30px;
+    color: red;
+}

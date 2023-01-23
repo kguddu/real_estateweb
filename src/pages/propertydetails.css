@@ -1,0 +1,87 @@
+
+.details{
+    width: 70%;
+    height: 50px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin-top: 2rem;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    font-weight: 600;
+    align-items: center;
+    margin-left: 3rem;
+  
+}
+   .price{
+    color:  rgb(137, 4, 137);
+    font-size: 800;
+    font-weight: bold;
+   }
+   .country{
+    text-align: center;
+    width: auto;
+    height: 30px;
+    background-color: rgb(137, 4, 137);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+   }
+.house_type{
+    text-align: center;
+    width: auto;
+    height: 30px;
+    background-color: rgb(3, 240, 59);
+    color: white;
+    font-size: 700;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.details_container{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin-left: 3rem;
+    display: flex;
+    margin-top: 4rem;
+    width: 70%;
+   
+}
+ .left img{
+    margin-left: 1rem;
+    border-radius: 5px;
+    height: 600px;
+    width: 500px;
+ }
+ .right{
+    width: 500px;
+   margin-left: 3rem;
+  
+ }
+
+ .agent{
+    width: 100px;
+    height: 100px;
+ }
+ .agent_detail{
+    width: 300px;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    
+ }
+ .agent_detail h2{
+       font-size: larger;
+       font-weight: 700;
+ }
+ .agent_detail a{
+    color:  rgb(137, 4, 137); 
+    font-size: large;
+ }
+ .icons{
+    color: rgb(71, 12, 127);
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+    
+ }
+ 
